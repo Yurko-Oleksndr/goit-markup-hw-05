@@ -601,7 +601,7 @@ img {
 }
 
 .modal-form-closebutton:hover,
-.modal-form-closebutton:focus + .modal-form-closebutton {
+.modal-form-closebutton:focus + .modal-form-closebutton-icon {
   fill: #ffffff;
 }
 
